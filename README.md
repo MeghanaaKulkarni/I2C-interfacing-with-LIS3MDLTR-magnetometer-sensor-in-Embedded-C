@@ -1,4 +1,4 @@
-# I²C Magnetometer Driver Stub
+# I²C Magnetometer Driver 
 
 ## Overview
 
